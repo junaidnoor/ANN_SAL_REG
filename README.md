@@ -27,6 +27,9 @@ The app predicts the **estimated annual salary** based on the following inputs:
 
 ## 🧪 How to Run Locally
 
+### 0.1 Application Url
+https://annsalreg-gjsuaygxbrw2vvxaxrzma7.streamlit.app/
+
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/yourusername/salary-prediction-app.git
