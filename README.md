@@ -24,6 +24,8 @@ The app predicts the **estimated annual salary** based on the following inputs:
 - Real-time salary predictions
 
 ---
+## 🧪 Application Url
+https://annsalreg-gjsuaygxbrw2vvxaxrzma7.streamlit.app/
 
 ## 🧪 How to Run Locally
 
@@ -39,9 +41,6 @@ pip install -r requirements.txt
 3. Run the Streamlit app
 
 streamlit run salary_app.py
-
-## 🧪 Application Url
-https://annsalreg-gjsuaygxbrw2vvxaxrzma7.streamlit.app/
 
 📁 Project Files
 File	Description
