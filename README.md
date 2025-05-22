@@ -36,10 +36,9 @@ cd ANN_SAL_REG
 
 2. Install dependencies
 Make sure Python 3.11+ is installed.
-
 pip install -r requirements.txt
-3. Run the Streamlit app
 
+3. Run the Streamlit app
 streamlit run salary_app.py
 
 📁 Project Files
