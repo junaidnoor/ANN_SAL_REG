@@ -80,7 +80,7 @@ prediction = model.predict(input_scaled)
 # convert numpy to float and round
 prediction_prob = round(float(prediction[0][0]), 2)
 
-st.write(f"predicted Salary: {prediction_prob: .2f}")
+st.write(f"Predicted Salary: {prediction_prob: .2f}")
 
 # Result
 st.write(f"The predicted annual salary for a {job_role} with a {education_level} degree and {yearof_exp} years of experience is ${prediction_prob}.")
