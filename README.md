@@ -32,11 +32,11 @@ https://annsalreg-gjsuaygxbrw2vvxaxrzma7.streamlit.app/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/salary-prediction-app.git
-cd salary-prediction-app
+git clone https://github.com/junaidnoor/ANN_SAL_REG.git
+cd ANN_SAL_REG
 
 2. Install dependencies
-Make sure Python 3.7+ is installed.
+Make sure Python 3.11+ is installed.
 
 pip install -r requirements.txt
 3. Run the Streamlit app
