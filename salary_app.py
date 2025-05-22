@@ -25,7 +25,7 @@ with open('expected_columns.pkl', 'rb') as file:
 
 
 # Streamlit Title
-st.write("Salary Prediction")
+st.title("Salary Prediction")
 
 # Users input
 education_level = st.selectbox('Education Level',onehot_encoder_education.categories_[0])
