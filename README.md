@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 streamlit run salary_app.py
 
-### 0.1 Application Url
+## 🧪 Application Url
 https://annsalreg-gjsuaygxbrw2vvxaxrzma7.streamlit.app/
 
 📁 Project Files
