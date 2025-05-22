@@ -27,9 +27,6 @@ The app predicts the **estimated annual salary** based on the following inputs:
 
 ## 🧪 How to Run Locally
 
-### 0.1 Application Url
-https://annsalreg-gjsuaygxbrw2vvxaxrzma7.streamlit.app/
-
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/junaidnoor/ANN_SAL_REG.git
@@ -42,6 +39,9 @@ pip install -r requirements.txt
 3. Run the Streamlit app
 
 streamlit run salary_app.py
+
+### 0.1 Application Url
+https://annsalreg-gjsuaygxbrw2vvxaxrzma7.streamlit.app/
 
 📁 Project Files
 File	Description
